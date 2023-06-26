@@ -1,4 +1,4 @@
-## Shobhika Bharti on GitHub :wave: 
+## Himanshu Kushwaha on GitHub :wave: 
 🔭 Business Services | Operations Developer | Advertising | Cloud Advisory Evangelist  
 🌱 Currently, scaling up on Organisation Economics and Transformation  
 👯 I’m looking to collaborate on Spring and Tensorflow   
