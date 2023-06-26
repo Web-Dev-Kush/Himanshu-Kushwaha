@@ -1,8 +1,8 @@
 ## Himanshu Kushwaha on GitHub :wave: 
-🔭 Project Manager | Operations Developer | React Front End Developer 
+🔭 Business Services | Operations Developer | Advertising | Cloud Advisory Evangelist  
 🌱 Currently, scaling up on Organisation Economics and Transformation  
 👯 I’m looking to collaborate on Spring and Tensorflow   
-💬 Ask me about JavaScript, NodeJS , CSS, HTML5, Tools & Technologies  
+💬 Ask me about Java, RDBMS vs NoSQL, Tools & Technologies  
 :hearts: Food, Culture, Music, & Art  
 📫 Social Media Profile: 
 <a href="https://twitter.com/shobhikabharti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shobhikabharti" height="15" width="20" /></a>&nbsp;
@@ -48,4 +48,3 @@
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 
 # 
-
